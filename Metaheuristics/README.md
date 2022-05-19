@@ -1,3 +1,11 @@
+This is my favorite project I have ever worked on, it is in the area of Metaheuristics, and the goal was to answer the famous
+Knapsack Problem using different Metaheuristics Algorithms. I solved the problem and wrote reports for 3 algorithms -
+Genetic Algorithm (GA), Particle Swarm Optimization (PSO), Simulated Annealing (SA).
+
+Metaheuristics is my favorite section of AI and I would love to make it a goal in my carreer. 
+
+Instructions for the project:
+
 Hi! I did the assignment in three different IntelliJ Projects. The projects are called Assignment_GA, Assignment_SA,
 and Assignment_PSO. 
 
