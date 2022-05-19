@@ -1,4 +1,8 @@
 # MilkMattersDonorApp
+This is a Flutter app created by myself and 2 collegues as a Thesis for our Honours degree at the University of Cape Town.
+We worked closely with a NGO called Milk Matters, that works with donor mothers to collect human breast milk for 
+premature babies in hospital who do not have access to it. They are a wonderful organization and I learned so much
+working with them!
 
 # Getting Started
 To build and compile both an iOS and Android version of this application, one needs to use both Android Studio and XCode.
